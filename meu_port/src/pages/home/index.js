@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <S.Container>
       <S.Title>
-        teste
+        Vinícius Shkromada de Oliveira
       </S.Title>
       <S.Description>
-        Descrição
+        Amante de jogos de tabuleiro e gastronomia, aficionado por tecnologia.
       </S.Description>
     </S.Container>
   )

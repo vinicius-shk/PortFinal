@@ -10,6 +10,7 @@ export default function NavBar() {
       </H.DevName>
       <H.NavLinks
         onClick={ () => navigate('/') }
+        autoFocus={ true }
       >
         About
       </H.NavLinks>
